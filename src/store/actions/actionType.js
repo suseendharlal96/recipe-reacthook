@@ -1,0 +1,11 @@
+export const GET_INGREDIENTS = " GET_INGREDIENTS";
+export const ADD_INGREDIENT = " ADD_INGREDIENT";
+export const EDIT_INGREDIENT = " EDIT_INGREDIENT";
+export const DELETE_INGREDIENT = " DELETE_INGREDIENT";
+export const ADD_TO_SHOPLIST = " ADD_TO_SHOPLIST";
+
+export const GET_RECIPES = " GET_RECIPES";
+export const SELECTED_RECIPE = " SELECTED_RECIPE";
+export const ADD_RECIPE = " ADD_RECIPE";
+export const EDIT_RECIPE = " EDIT_RECIPE";
+export const DELETE_RECIPE = "DELETE_RECIPE";

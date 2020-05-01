@@ -1,7 +1,6 @@
 {
   "name": "recipe-react",
   "version": "0.1.0",
-  "engine":"16.16.x",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -15,8 +14,8 @@
     "redux": "^4.0.5"
   },
   "scripts": {
-    "start": "node scripts/start.js",
-    "build": "node scripts/build.js",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm run build"
